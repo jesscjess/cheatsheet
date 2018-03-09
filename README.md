@@ -26,5 +26,5 @@ When you're trying to figure out which npm version is right for you <3
 
 Quickly switch node versions by installing npm n package:
 
-`sudo n 6.9.5
+`sudo n 6.9.5 \
 sudo n 8.9.2`
